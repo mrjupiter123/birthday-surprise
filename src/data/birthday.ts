@@ -5,7 +5,7 @@ export const birthdayConfig = {
   birthdayMessage: ["Happy Birthday!", "I hope your day is filled with happiness, laughter, beautiful memories, and everything you've been wishing for.", "You deserve all the good things coming your way. 😎"],
   giftMessage: "My wish for you is that this year brings you closer to everything you've been dreaming about.",
   finalMessage: "I hope this little surprise made you smile.",
-  letter: "I'm really grateful to have a friend like you—someone I can always talk to and be myself around.\n\nThank you for listening, encouraging me, and motivating me whenever I need it. Your support means more to me than you probably realize.\n\nOn your birthday, I hope you receive the same kindness and encouragement that you always give to others. Keep smiling and keep being the amazing person you are.\n\nHappy Birthday, my friend! 🎂❤️",
+  letter: "I'm really grateful to have a friend like you—someone I can always talk to.\n\nThank you for listening, encouraging me, and motivating me whenever I need it. Your support means more to me than you probably realize.\n\nOn your birthday, I hope you receive the same kindness and encouragement that you always give to others. Keep smiling and keep being the amazing person you are.\n\nHappy Birthday, my friend! 🎂❤️",
   appreciation: ["Your smile", "Your kindness", "Your personality", "The way you make people happy", "Your determination", "The memories we've created"],
   memories: [
     {date:"Our First Memory", title:"The Beginning", description:"This is where one of my favorite memories started.", image:"/birthday-surprise/memories/1.jpg", caption:"A moment worth keeping"},
