@@ -1,8 +1,6 @@
-import type { NextConfig } from "next";
-
 const repo = "birthday-surprise";
 
-const config: NextConfig = {
+const config = {
   output: "export",
   images: { unoptimized: true },
   basePath: `/${repo}`,
