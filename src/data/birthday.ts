@@ -1,7 +1,7 @@
 export interface Memory { date: string; title: string; description: string; image: string; caption: string }
 export const birthdayConfig = {
   name: "Serey Seavor", birthdayDate: "2026-08-20",
-  introMessage: "Hey, I made something special for you ❤️", heroMessage: "Today is all about you ✨",
+  introMessage: "Hey, I made something special for you", heroMessage: "Today is all about you ✨",
   birthdayMessage: ["Happy Birthday!", "I hope your day is filled with happiness, laughter, beautiful memories, and everything you've been wishing for.", "You deserve all the good things coming your way. 😎"],
   giftMessage: "My wish for you is that this year brings you closer to everything you've been dreaming about.",
   finalMessage: "I hope this little surprise made you smile.",
